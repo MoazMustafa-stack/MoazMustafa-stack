@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2AF5F7&center=true&multiline=true&width=435&height=70&lines=Hi+I+am+Moaz%2C+a+student;I+like+penguins+and+cats)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2AF5F7&center=true&vCenter=true&multiline=true&width=435&height=70&lines=Hi+I+am+Moaz%2C+a+student;I+like+penguins+and+cats)](https://git.io/typing-svg)
 
 <p align="center">
   <i>
